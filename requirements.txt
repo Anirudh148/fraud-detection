@@ -1,0 +1,15 @@
+kafka-python
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai
+mlflow
+plotly
+dash
+faker
