@@ -1,0 +1,1 @@
+["amount", "hour_of_day", "day_of_week", "transaction_count_1h", "transaction_count_24h", "distance_from_home", "distance_from_last_transaction", "is_foreign_transaction", "is_online_transaction", "merchant_category_encoded", "card_type_encoded", "device_type_encoded"]
